@@ -1,0 +1,28 @@
+{
+  "name": "webpack-assembly",
+  "version": "1.0.0",
+  "description": "webpack assembly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamabuMedina/webpack-assembly.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "webpack"
+  ],
+  "author": "Adam Barkinkhoev <adamabujamila@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamabuMedina/webpack-assembly/issues"
+  },
+  "homepage": "https://github.com/AdamabuMedina/webpack-assembly#readme",
+  "devDependencies": {
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
+  }
+}

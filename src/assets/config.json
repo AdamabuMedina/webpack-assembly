@@ -1,0 +1,10 @@
+{
+  "apiUrl": "https://api.unsplash.com",
+  "accessKey": "UPLaj3YzLjhdRB7mX2zCslbuLPyf1XXpkUc1Hxhkd28",
+  "secretKey": "badd56114710a1c9d1f3a9179bb4ee08ef883d3f4ae9cbc673e085c491ef6432",
+  "authUrl": "https://unsplash.com/oauth/authorize",
+  "tokenUrl": "https://unsplash.com/oauth/token",
+  "redirectUrl": "https://unsplash-adam.timewebtest.com",
+  "scope": "public+write_likes",
+  "tokenKey": "storageKey"
+}
